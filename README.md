@@ -18,10 +18,10 @@
 
 ## Feature Engineering
 • Handling imbalanced dataset using Oversampling<br/>
-![SpamVsHam](readme-resources/svh.png)<br/>
+![SpamVsHam](https://github.com/Jatindra23/sms_spam_classification_nlp/blob/main/readme_resources/svh.png)<br/>
 • **Creating new features** from existing features e.g. **word_count, contains_currency_symbol, contains_numbers**, etc.<br/>
-![word_count](readme-resources/word_count.png)<br/>
-![currency_numbers](readme-resources/currency_numbers.png)
+![word_count](https://github.com/Jatindra23/sms_spam_classification_nlp/blob/main/readme_resources/word_count.png)<br/>
+![currency_numbers](https://github.com/Jatindra23/sms_spam_classification_nlp/blob/main/readme_resources/currency_numbers.png)
 
 ## Data Cleaning
 • Removing special character and numbers using regular expression<br/>
@@ -38,11 +38,11 @@
 • Decision Tree: 0.98<br/>
 • **Random Forest: 0.994**<br/>
 • Voting (Decision Tree + Multinomial Naive Bayes): 0.98<br/>
-![matrix](readme-resources/cm.png)<br/>
+![matrix](https://github.com/Jatindra23/sms_spam_classification_nlp/blob/main/readme_resources/cm.png)<br/>
 _**Note: Evaluation scores are obtained using cross validation.**_
 
 ## Model Prediction
-![Prediction](readme-resources/prediction.PNG)
+![Prediction](https://github.com/Jatindra23/sms_spam_classification_nlp/blob/main/readme_resources/prediction.PNG)
 
 # Spam SMS Classification - Deployment
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
@@ -56,13 +56,13 @@ _**Note: Evaluation scores are obtained using cross validation.**_
 • A glimpse of the web app: 
 
 
-![GIF](readme_resources/spam-sms-web-app.gif)
+![GIF](https://github.com/Jatindra23/sms_spam_classification_nlp/blob/main/readme_resources/spam-sms-web-app.gif)
 
 _**----- Important Note -----**_<br />
 • If you encounter this webapp as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by Heroku have been completely used.** _You can access the webpage on 1st of the next month._<br />
 • Sorry for the inconvenience.
 
-![Heroku-Error](readme_resources/application-error-heroku.png)
+![Heroku-Error](https://github.com/Jatindra23/sms_spam_classification_nlp/blob/main/readme_resources/application-error-heroku.png)
 
 
 
